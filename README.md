@@ -13,3 +13,6 @@ O relatório, disponível no Looker Studio, oferece uma base de dados para decis
 
 [Visualize o relatório completo aqui](https://lookerstudio.google.com/reporting/09416919-a594-4730-919a-b2f2e6e170dc)
 
+
+![image](https://github.com/ivanDourado/user_jouney_analysis_App/assets/85656465/281203f5-8d9f-4e3c-a3f9-1ca23882bfb8)
+
