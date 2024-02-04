@@ -1,0 +1,89 @@
+Attributed Touch Type,Attributed Touch Time,Install Time,Event Time,Event Name,Event Source,Partner,Campaign,Region,Country Code,State,City,Platform,App Version,Is Retargeting,Is Primary Attribution
+click,2023-10-28 10:23:20,2023-10-31 9:27:14,2024-01-13 17:24:33,initial_request_success_prod,S2S,dgmax,o_ab11f93b1e,SA,BR,PE,Recife,android,3.0.2.0,FALSE,TRUE
+click,2023-11-02 17:15:26,2023-11-03 21:31:41,2024-01-13 11:51:43,initial_request_success_prod,S2S,dgmax,3b92cef6e98f,SA,BR,MG,Nova Serrana,android,3.0.2.1,FALSE,TRUE
+click,2023-09-04 6:03:07,2023-09-06 10:26:21,2024-01-13 8:31:42,initial_request_success_prod,S2S,dgmax,None,SA,BR,DF,Brasilia,android,3.0.3.0,FALSE,TRUE
+click,2023-11-20 17:33:47,2023-11-25 16:39:31,2024-01-12 13:49:00,initial_request_success_prod,S2S,dgmax,o_e58c62a508,SA,BR,RJ,Barra Do Pirai,android,3.0.2.1,FALSE,TRUE
+click,2023-10-09 14:59:15,2023-10-11 18:58:31,2024-01-12 10:17:20,initial_request_success_prod,S2S,dgmax,o_59848276a3,SA,BR,DF,Brasilia,android,2.22.7.2,FALSE,TRUE
+click,2023-11-21 3:04:02,2023-11-21 9:14:35,2024-01-12 8:20:23,initial_request_success_prod,S2S,dgmax,None,SA,BR,RJ,Rio De Janeiro,android,3.0.2.1,FALSE,FALSE
+click,2023-08-30 8:16:55,2023-08-30 20:00:59,2024-01-11 16:07:23,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Governador Mangabeira,android,3.0.2.1,FALSE,FALSE
+click,2023-08-28 19:56:58,2023-08-28 19:58:42,2024-01-11 8:11:32,initial_request_success_prod,S2S,dgmax,None,SA,BR,RJ,Belford Roxo,android,3.0.2.1,FALSE,TRUE
+click,2023-10-28 20:17:03,2023-10-29 15:25:13,2024-01-10 23:35:00,initial_request_success_prod,S2S,dgmax,3b92cef6e98f,SA,BR,CE,Aracati,android,3.0.2.1,FALSE,TRUE
+click,2023-09-01 7:44:01,2023-09-07 13:20:10,2024-01-10 19:39:04,initial_request_success_prod,S2S,dgmax,None,SA,BR,SE,Tobias Barreto,android,3.0.2.1,FALSE,TRUE
+click,2023-11-26 15:26:41,2023-11-26 15:28:55,2024-01-10 13:04:00,initial_request_success_prod,S2S,dgmax,None,SA,BR,RJ,Rio De Janeiro,android,3.0.2.1,FALSE,FALSE
+click,2023-10-10 22:35:23,2023-10-11 4:00:39,2024-01-09 23:14:12,initial_request_success_prod,S2S,dgmax,None,SA,BR,MG,Ribeirao Das Neves,android,3.0.2.1,FALSE,FALSE
+click,2023-09-30 20:15:24,2023-10-01 21:48:59,2024-01-09 16:51:47,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Santaluz,android,3.0.2.1,FALSE,FALSE
+click,2023-09-30 20:15:24,2023-10-01 21:48:59,2024-01-09 16:42:13,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Santaluz,android,3.0.2.1,FALSE,FALSE
+click,2023-09-22 12:48:43,2023-09-22 12:49:06,2024-01-08 23:57:45,initial_request_success_prod,S2S,dgmax,None,SA,BR,RS,Cachoeirinha,android,3.0.2.1,FALSE,FALSE
+click,2023-10-08 12:17:11,2023-10-10 10:32:07,2024-01-08 14:49:13,initial_request_success_prod,S2S,dgmax,o_59848276a3,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,FALSE
+click,2024-01-07 18:53:39,2024-01-07 19:09:41,2024-01-07 19:32:08,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Igara,android,3.0.2.1,FALSE,TRUE
+click,2024-01-07 18:53:39,2024-01-07 19:09:41,2024-01-07 19:26:19,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Igara,android,3.0.2.1,FALSE,TRUE
+click,2024-01-07 22:10:45,2024-01-07 22:12:37,2024-01-07 19:18:10,initial_request_success_prod,S2S,dgmax,None,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,TRUE
+click,2024-01-07 21:32:55,2024-01-07 21:35:18,2024-01-07 18:38:40,initial_request_success_prod,S2S,dgmax,None,SA,BR,RJ,Ibitioca,android,3.0.2.1,FALSE,TRUE
+click,2023-12-04 14:29:32,2023-12-04 14:30:52,2024-01-07 14:51:40,initial_request_success_prod,S2S,dgmax,None,SA,BR,SC,Penha,android,3.0.2.1,FALSE,FALSE
+click,2024-01-07 15:28:50,2024-01-07 15:29:46,2024-01-07 12:33:59,initial_request_success_prod,S2S,dgmax,None,SA,BR,PB,Cajazeiras,android,3.0.2.1,FALSE,TRUE
+click,2023-12-14 16:25:48,2023-12-14 16:27:37,2024-01-07 9:42:40,initial_request_success_prod,S2S,dgmax,None,SA,BR,AM,Manaus,android,2.22.7.2,FALSE,TRUE
+click,2023-11-23 9:29:10,2023-11-23 9:40:26,2024-01-07 6:15:40,initial_request_success_prod,S2S,dgmax,None,SA,BR,RN,Natal,android,3.0.2.1,FALSE,FALSE
+click,2024-01-06 17:06:04,2024-01-06 17:37:04,2024-01-06 14:39:46,initial_request_success_prod,S2S,dgmax,None,SA,BR,SP,Bauru,android,3.0.2.1,FALSE,TRUE
+click,2023-11-29 10:15:40,2023-11-29 23:48:32,2024-01-06 5:36:16,initial_request_success_prod,S2S,dgmax,digio-dgmax,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,FALSE
+click,2024-01-06 2:36:41,2024-01-06 2:37:30,2024-01-05 23:39:12,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Salvador,android,3.0.2.1,FALSE,TRUE
+click,2024-01-05 23:18:19,2024-01-05 23:19:57,2024-01-05 23:22:36,initial_request_success_prod,S2S,dgmax,None,SA,BR,SP,Sao Bernardo Do Campo,android,3.0.2.1,FALSE,TRUE
+click,2024-01-05 23:00:37,2024-01-05 23:14:17,2024-01-05 23:16:27,initial_request_success_prod,S2S,dgmax,None,SA,BR,MG,Juiz De Fora,android,3.0.2.1,FALSE,TRUE
+click,2024-01-05 23:02:48,2024-01-05 23:03:41,2024-01-05 23:05:24,initial_request_success_prod,S2S,dgmax,None,SA,BR,CE,Fortim,android,3.0.2.1,FALSE,TRUE
+click,2024-01-05 19:57:07,2024-01-05 19:58:13,2024-01-05 17:02:47,initial_request_success_prod,S2S,dgmax,None,SA,BR,CE,Camocim,android,3.0.2.1,FALSE,TRUE
+click,2024-01-05 15:26:02,2024-01-05 15:34:30,2024-01-05 12:37:26,initial_request_success_prod,S2S,dgmax,None,SA,BR,SP,Embu Das Artes,android,3.0.2.1,FALSE,TRUE
+click,2023-09-11 3:11:08,2023-09-12 18:18:08,2024-01-05 10:32:16,initial_request_success_prod,S2S,dgmax,None,SA,BR,PI,Teresina,android,3.0.2.1,FALSE,TRUE
+click,2023-08-28 22:15:43,2023-08-28 22:30:56,2024-01-05 9:00:21,initial_request_success_prod,S2S,dgmax,None,SA,BR,MA,Barra Do Corda,android,3.0.2.1,FALSE,TRUE
+click,2023-09-09 2:16:02,2023-09-11 9:32:28,2024-01-05 8:30:26,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Sao Felix Do Coribe,android,3.0.2.1,FALSE,FALSE
+click,2023-09-21 7:24:24,2023-09-21 7:25:53,2024-01-04 23:31:05,initial_request_success_prod,S2S,dgmax,None,SA,BR,SE,Aracaju,android,3.0.2.1,FALSE,FALSE
+click,2023-10-12 13:59:35,2023-10-16 12:51:07,2024-01-04 14:32:30,initial_request_success_prod,S2S,dgmax,digio-dgmax,SA,BR,PI,Altos,android,3.0.2.1,FALSE,FALSE
+click,2024-01-04 17:09:28,2024-01-04 17:14:24,2024-01-04 14:16:05,initial_request_success_prod,S2S,dgmax,None,SA,BR,MG,Matozinhos,android,3.0.2.1,FALSE,TRUE
+click,2024-01-04 17:00:38,2024-01-04 17:01:32,2024-01-04 14:04:18,initial_request_success_prod,S2S,dgmax,None,SA,BR,PA,Abaetetuba,android,3.0.2.1,FALSE,TRUE
+click,2024-01-04 16:02:36,2024-01-04 16:04:54,2024-01-04 13:06:18,initial_request_success_prod,S2S,dgmax,None,SA,BR,PR,Curitiba,android,3.0.2.1,FALSE,TRUE
+click,2023-11-18 19:22:30,2023-11-20 6:47:20,2024-01-04 12:06:38,initial_request_success_prod,S2S,dgmax,52f8ed39e427,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,TRUE
+click,2023-10-06 8:33:32,2023-10-06 9:25:38,2024-01-04 7:42:14,initial_request_success_prod,S2S,dgmax,o_59848276a3,SA,BR,RJ,Paracambi,android,3.0.2.1,FALSE,TRUE
+click,2024-01-04 0:24:19,2024-01-04 0:27:26,2024-01-03 21:31:11,initial_request_success_prod,S2S,dgmax,None,SA,BR,AM,Autazes,android,3.0.2.1,FALSE,TRUE
+click,2024-01-04 0:07:38,2024-01-04 0:09:09,2024-01-03 21:10:58,initial_request_success_prod,S2S,dgmax,None,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,TRUE
+click,2023-11-20 20:22:29,2023-11-20 20:23:51,2024-01-03 12:41:13,initial_request_success_prod,S2S,dgmax,e96e8964ee0f,SA,BR,PE,Cabo De Santo Agostinho,android,3.0.2.0,FALSE,TRUE
+click,2023-11-02 17:49:30,2023-11-03 20:58:28,2024-01-03 11:21:26,initial_request_success_prod,S2S,dgmax,3b92cef6e98f,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,TRUE
+click,2024-01-01 10:33:13,2024-01-03 13:16:07,2024-01-03 10:20:14,initial_request_success_prod,S2S,dgmax,None,SA,BR,AM,Manaus,android,3.0.2.1,FALSE,TRUE
+click,2023-11-27 9:15:18,2023-11-27 9:18:24,2024-01-03 6:11:12,initial_request_success_prod,S2S,dgmax,None,SA,BR,PA,Belem,android,3.0.2.1,FALSE,FALSE
+click,2024-01-02 21:14:30,2024-01-02 21:21:50,2024-01-02 18:26:29,initial_request_success_prod,S2S,dgmax,None,SA,BR,MG,Morro Da Garca,android,3.0.2.1,FALSE,TRUE
+click,2024-01-02 19:31:51,2024-01-02 19:42:57,2024-01-02 16:45:31,initial_request_success_prod,S2S,dgmax,None,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,TRUE
+click,2023-11-26 15:06:45,2023-11-30 17:59:01,2024-01-02 14:55:05,initial_request_success_prod,S2S,dgmax,digio-dgmax,SA,BR,MG,Belo Horizonte,android,2.22.7.2,FALSE,TRUE
+click,2024-01-02 17:31:34,2024-01-02 17:32:47,2024-01-02 14:35:03,initial_request_success_prod,S2S,dgmax,None,SA,BR,DF,Brasilia,android,3.0.2.1,FALSE,TRUE
+click,2023-11-02 21:08:49,2023-11-03 11:24:36,2024-01-02 13:16:55,initial_request_success_prod,S2S,dgmax,None,SA,BR,PA,Santarem,android,3.0.2.1,FALSE,TRUE
+click,2024-01-02 14:49:13,2024-01-02 14:50:23,2024-01-02 11:54:31,initial_request_success_prod,S2S,dgmax,None,SA,BR,PA,Belem,android,3.0.2.1,FALSE,TRUE
+click,2024-01-02 12:46:12,2024-01-02 12:50:12,2024-01-02 9:52:44,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Lauro De Freitas,android,3.0.2.1,FALSE,TRUE
+click,2024-01-02 11:16:19,2024-01-02 11:25:29,2024-01-02 8:28:11,initial_request_success_prod,S2S,dgmax,None,SA,BR,BA,Santaluz,android,3.0.2.1,FALSE,TRUE
+click,2023-11-18 8:54:04,2023-11-18 11:51:24,2024-01-02 7:54:13,initial_request_success_prod,S2S,dgmax,e96e8964ee0f,SA,BR,GO,Goiania,android,3.0.2.1,FALSE,TRUE
+click,2024-01-01 23:20:04,2024-01-01 23:20:56,2024-01-01 23:38:26,initial_request_success_prod,S2S,dgmax,None,SA,BR,RJ,Resende,android,3.0.2.1,FALSE,TRUE
+click,2023-11-29 10:12:36,2023-11-29 18:52:49,2024-01-01 15:22:43,initial_request_success_prod,S2S,dgmax,digio-dgmax,SA,BR,MG,Campanario,android,3.0.2.0,FALSE,FALSE
+click,2023-11-26 15:41:54,2023-11-27 5:05:36,2024-01-01 15:16:02,initial_request_success_prod,S2S,dgmax,digio-dgmax,SA,BR,SP,Caieiras,android,3.0.1.0,FALSE,FALSE
+click,2024-01-01 9:37:09,2024-01-01 9:38:23,2024-01-01 6:41:52,initial_request_success_prod,S2S,dgmax,None,SA,BR,PE,Caruaru,android,3.0.2.1,FALSE,TRUE
+click,2023-12-31 22:29:37,2024-01-01 3:56:46,2024-01-01 0:59:01,initial_request_success_prod,S2S,dgmax,None,SA,BR,MG,Sao Joao Del Rei,android,2.22.7.2,FALSE,TRUE
+click,2023-11-03 15:40:54,2023-11-06 16:39:04,2024-01-10 21:27:50,grana_extra_simular,SDK,dgmax,o_ab11f93b1e,SA,BR,RS,Viamao,android,3.0.2.1,FALSE,TRUE
+click,2023-11-03 15:40:54,2023-11-06 16:39:04,2024-01-08 17:58:46,grana_extra_simular,SDK,dgmax,o_ab11f93b1e,SA,BR,RS,Viamao,android,3.0.2.1,FALSE,TRUE
+click,2023-11-05 18:17:13,2023-11-06 8:48:16,2024-01-11 22:01:00,grana_extra_comecar,SDK,dgmax,3b92cef6e98f,SA,BR,BA,Mulungu Do Morro,android,3.0.2.1,FALSE,FALSE
+click,2023-11-03 15:40:54,2023-11-06 16:39:04,2024-01-10 21:27:27,grana_extra_comecar,SDK,dgmax,o_ab11f93b1e,SA,BR,RS,Viamao,android,3.0.2.1,FALSE,TRUE
+click,2023-10-07 6:30:22,2023-10-10 20:36:57,2024-01-09 21:38:41,grana_extra_comecar,SDK,dgmax,o_59848276a3,SA,BR,SP,Guarulhos,android,3.0.2.1,FALSE,FALSE
+click,2023-10-28 9:37:01,2023-10-30 20:34:17,2024-01-08 19:51:13,grana_extra_comecar,SDK,dgmax,None,SA,BR,CE,Fortaleza,android,3.0.2.1,FALSE,TRUE
+click,2023-11-03 15:40:54,2023-11-06 16:39:04,2024-01-08 17:58:21,grana_extra_comecar,SDK,dgmax,o_ab11f93b1e,SA,BR,RS,Viamao,android,3.0.2.1,FALSE,TRUE
+click,2023-11-09 4:59:07,2023-11-09 15:28:33,2024-01-08 14:26:59,grana_extra_comecar,SDK,dgmax,None,SA,BR,RJ,Petropolis,android,3.0.2.1,FALSE,FALSE
+click,2023-10-05 7:01:24,2023-10-05 19:52:01,2024-01-08 8:32:58,grana_extra_comecar,SDK,dgmax,o_59848276a3,SA,BR,MG,Francisco Sa,android,3.0.2.1,FALSE,FALSE
+click,2023-10-05 7:01:24,2023-10-05 19:52:01,2024-01-08 8:32:16,grana_extra_comecar,SDK,dgmax,o_59848276a3,SA,BR,MG,Francisco Sa,android,3.0.2.1,FALSE,FALSE
+click,2023-12-21 17:14:00,2023-12-22 10:11:27,2024-01-04 10:10:45,grana_extra_comecar,SDK,dgmax,digio-dgmax,SA,BR,CE,Coreau,android,3.0.2.1,FALSE,FALSE
+click,2023-10-08 9:51:49,2023-10-09 20:02:46,2024-01-02 20:03:12,grana_extra_comecar,SDK,dgmax,o_59848276a3,SA,BR,ES,Domingos Martins,android,3.0.2.1,FALSE,FALSE
+click,2023-11-05 18:17:13,2023-11-06 8:48:16,2024-01-01 19:23:54,grana_extra_comecar,SDK,dgmax,3b92cef6e98f,SA,BR,BA,Mulungu Do Morro,android,3.0.2.1,FALSE,FALSE
+click,2023-11-05 18:17:13,2023-11-06 8:48:16,2024-01-01 19:22:06,grana_extra_comecar,SDK,dgmax,3b92cef6e98f,SA,BR,BA,Mulungu Do Morro,android,3.0.2.1,FALSE,FALSE
+click,2023-11-03 15:40:54,2023-11-06 16:39:04,2024-01-01 14:56:56,grana_extra_comecar,SDK,dgmax,o_ab11f93b1e,SA,BR,RS,Viamao,android,3.0.2.1,FALSE,FALSE
+click,2023-09-10 0:51:26,2023-09-12 13:25:47,2024-01-01 12:49:42,grana_extra_comecar,SDK,dgmax,None,SA,BR,GO,Edeia,android,3.0.2.1,FALSE,FALSE
+click,2023-09-22 12:48:43,2023-09-22 12:49:06,2024-01-09 0:02:41,aquisicao_tap_conheca_cartao,SDK,dgmax,None,SA,BR,RS,Cachoeirinha,android,3.0.2.1,FALSE,FALSE
+click,2023-10-08 12:17:11,2023-10-10 10:32:07,2024-01-08 18:00:10,aquisicao_tap_conheca_cartao,SDK,dgmax,o_59848276a3,SA,BR,MS,Dourados,android,3.0.2.1,FALSE,FALSE
+click,2024-01-05 19:57:07,2024-01-05 19:58:13,2024-01-05 20:06:53,aquisicao_tap_conheca_cartao,SDK,dgmax,None,SA,BR,CE,Camocim,android,3.0.2.1,FALSE,TRUE
+click,2023-09-09 2:16:02,2023-09-11 9:32:28,2024-01-05 11:38:25,aquisicao_tap_conheca_cartao,SDK,dgmax,None,SA,BR,BA,Coribe,android,3.0.2.1,FALSE,FALSE
+click,2023-10-06 8:33:32,2023-10-06 9:25:38,2024-01-04 10:45:35,aquisicao_tap_conheca_cartao,SDK,dgmax,o_59848276a3,SA,BR,RJ,Paracambi,android,3.0.2.1,FALSE,TRUE
+click,2023-10-08 12:17:11,2023-10-10 10:32:07,2024-01-09 12:51:52,approved_credit-card_success_Gold_prod,S2S,dgmax,o_59848276a3,SA,BR,SP,Sao Paulo,android,3.0.2.1,FALSE,FALSE
+click,2023-09-09 2:16:02,2023-09-11 9:32:28,2024-01-09 8:10:23,approved_credit-card_success_Gold_prod,S2S,dgmax,None,SA,BR,BA,Sao Felix Do Coribe,android,3.0.2.1,FALSE,TRUE
+click,2023-10-06 8:33:32,2023-10-06 9:25:38,2024-01-07 19:50:05,approved_credit-card_success_Gold_prod,S2S,dgmax,o_59848276a3,SA,BR,RJ,Paracambi,android,3.0.2.1,FALSE,TRUE
+click,2024-01-05 19:57:07,2024-01-05 19:58:13,2024-01-05 17:16:03,approved_credit-card_success_Gold_prod,S2S,dgmax,None,SA,BR,CE,Camocim,android,3.0.2.1,FALSE,TRUE
+click,2023-09-07 6:00:01,2023-09-08 21:32:57,2024-01-01 11:45:47,approved_credit-card_success_Gold_prod,S2S,dgmax,None,SA,BR,CE,Sao Benedito,android,3.0.2.0,FALSE,TRUE
